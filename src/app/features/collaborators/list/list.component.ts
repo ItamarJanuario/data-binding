@@ -7,14 +7,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ListComponent implements OnInit {
 
-  infoColab = [
+  infoColab = 
     {
       id: 7, 
       nome: 'Nathan Carlos Exercicio', 
       salario: 4500, 
       cargo: 'Dev Pl'
-    }
-  ];
+    };
 
   constructor() { }
 

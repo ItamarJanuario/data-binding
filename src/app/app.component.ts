@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Exercicio efetuado para modulo';
+  title = 'Exercicio efetuado para data-binding';
 }
